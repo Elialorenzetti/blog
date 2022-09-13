@@ -1,0 +1,30 @@
+#+TITLE: Blog
+#+AUTHOR: elia
+#+STARTUP: content
+#+HUGO_BASE_DIR: ../
+#+HUGO_AUTO_SET_LASTHMOD: t
+#+OPTIONS: author:nil ~:nil
+
+* Blog posts
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: posts
+  :END:
+** test
+  :PROPERTIES:
+  :EXPORT_FILE_NAME: test
+  :EXPORT_DESCRIPTION: this is a test
+  :END:
+
+org-hugo-auto-export-mode
+
+* Blog about
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: about
+  :END:
+** test
+  :PROPERTIES:
+  :EXPORT_FILE_NAME: test
+  :EXPORT_DESCRIPTION: this is a test
+  :END:
+
+ hello
