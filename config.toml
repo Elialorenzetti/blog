@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://elialorenzetti.github.io/blog/"
 title = "mysite"
 theme = "terminal"
 paginate = 5
